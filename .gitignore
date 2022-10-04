@@ -17,3 +17,5 @@ config/
 ###> phpunit/phpunit <###
 .env
 .env.test
+
+bin/
