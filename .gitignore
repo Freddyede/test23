@@ -8,12 +8,12 @@ public/bundles/
 var/
 vendor/
 
+migrations/
+config/
 ###> symfony/phpunit-bridge <###
 .phpunit.result.cache
 /phpunit.xml
 
 ###> phpunit/phpunit <###
-migrations
-config
 .env
 .env.test
